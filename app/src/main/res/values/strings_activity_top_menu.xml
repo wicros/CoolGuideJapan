@@ -1,0 +1,9 @@
+<resources>
+    <string name="top_menu_title">Cool Guide Japan</string>
+    <string name="top_menu_login">ログイン</string>
+    <string name="top_menu_baidu">Baiduでログイン</string>
+    <string name="top_menu_wechat">Wechatでログイン</string>
+    <string name="top_menu_facebook">FaceBookでログイン</string>
+    <string name="top_menu_add_user">新規ユーザ追加</string>
+
+</resources>

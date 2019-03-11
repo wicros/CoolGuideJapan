@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Cool Guide</string>
+
+    <!-- 主页 -->
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+
+    <!-- TODO:本当のfacebookとweiboのapp keyに交換してください-->
+    <string name="facebook_app_id">997595583660763</string>
+    <string name="weibo_app_id">4125072459</string>
+    <string name="error_title">エラー</string>
+    <string name="network_error_msg">"ネットワークが接続できませんでした。"</string>
+    <string name="error_button_positive">"OK"</string>
+    <string name="weibo_redirect_url">https://api.weibo.com/oauth2/default.html</string>
+    <string name="weibo_app_scope"></string>
+    <string name="num_regx">^\-?[0-9]*\.?[0-9]+$</string>
+    <string name="password_regx">[A-Z0-9a-z]{6,}</string>
+
+
+    <string name="verification_code_error">検証番号不正</string>
+    <string name="charge_failed_error">リチャージ失敗しました。もう一度を試してください</string>
+    <string name="charge_sucess">リチャージ成功しました。</string>
+
+    <string name="product_code">商品コード</string>
+    <string name="charge_date">チャージ日時</string>
+    <string name="ex_date">利用終了日</string>
+    <!--1.5-。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。-->
+    <string name="nickname">ニックネーム</string>
+    <string name="add_simcard">追加</string>ニックネーム
+    <string name="share">share</string>
+    <string name="edit">編集</string>
+    <string name="all">全て</string>
+    <string name="fav">お気に入り</string>
+    <string name="delete_card">貴方はこの番号を削除しますか:</string>
+    <string name="title_video">ビデオ</string>
+    <string name="title_foot">旅行の足跡</string>
+    <string name="no_limit">無限</string>
+
+    <string name="simset_text1">SIMカードを日本で使用する前に、SIMの設定が必要となります。Wi-Fiを連接して、以下のチュートリアルをフォローしてください。</string>
+    <string name="simset_text2">ご利用終了後の復元手順\n1. 設定 → 一般 → プロファイル\n2. プロファイルを削除</string>
+    <string name="simset_bt">設置の説明</string>
+    <string name="simset_title">SIM設定</string>
+
+    <string name="shop_title">店舗検索</string>
+</resources>

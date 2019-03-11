@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="custom_dialog_title_alert">APN設定</string>
+    <string name="custom_dialog_ok">確定</string>
+    <string name="custom_dialog_cancel">キャンセル</string>
+</resources>

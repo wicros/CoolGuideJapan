@@ -1,0 +1,9 @@
+<resources>
+    <string name="home_title">Cool Guide Japan</string>
+    <string name="home_button_simhistory">SIM履歴</string>
+    <string name="home_button_recharge">リチャージ</string>
+    <string name="home_button_simsetting">SIM設定</string>
+    <string name="home_button_coupon">クーポン</string>
+    <string name="home_button_appsetting">アプリ設定</string>
+
+</resources>

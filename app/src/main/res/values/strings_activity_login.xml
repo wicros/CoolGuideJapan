@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="login_action_bar_title">ログイン</string>
+    <string name="title_user">ユーザー名</string>
+    <string name="title_password">パスワード</string>
+    <string name="title_email">登録のメールーボックス</string>
+    <string name="action_email_sing_in">メールボックス</string>
+    <string name="title_password_confirm">パスワード再入力</string>
+    <string name="action_sign_in">ログイン</string>
+    <string name="action_sign_ok">確定</string>
+    <string name="action_regist">登録</string>
+    <string name="action_sign_in_short">ログイン</string>
+    <string name="action_new_user">新規取得</string>
+    <string name="forget_password">パスワードを忘れた場合</string>
+    <string name="seperate_text">その他ログイン</string>
+    <string name="error_invalid_email">メールアドレスが有効な内容ではない</string>
+    <string name="error_invalid_password">パスワード不正</string>
+    <string name="error_empty_password">パスワード</string>
+    <string name="title_passnumber">検証番号</string>
+    <string name="error_invalid_date">日付不正</string>
+    <string name="error_incorrect_password">パスワード不正</string>
+    <string name="error_field_required">ログイン内容を入力してください。</string>
+    <string name="error_field_required_regist">新規内容を入力してください。</string>
+    <string name="error_tel_wrong">電話番号不正。</string>
+    <string name="error_password_wrong">パスワード不正。</string>
+    <string name="error_no_such_user">該当ユーザ存在しません。</string>
+    <string name="error_server">サーバにエラーが発生しました。</string>
+    <string name="error_input">入力不正</string>
+    <string name="error_password_length">パスワードの長さが6未満。</string>
+    <string name="error_password_equal">パスワード確認は不一致</string>
+</resources>

@@ -1,0 +1,6 @@
+﻿<resources>
+    <!-- Strings related to login -->
+    <string name="sim_charge_list_bar_title">SIM card can recharge.</string>
+    <string name="sim_charge_default_text">There is no information about charge card. </string>
+    <string name="sim_charge_text">recharge option 7日1GB&#160;&#160;&#160;&#160;500</string>
+</resources>

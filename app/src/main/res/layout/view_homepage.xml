@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/hm_vp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/list_line_color">
+        <ImageView
+            android:id="@+id/acount_iv"
+            android:layout_marginLeft="15dp"
+            android:layout_width="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_height="40dp"
+            android:src="@mipmap/male"/>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="20dp"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/acount_nick"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="null"/>
+            <TextView
+                android:id="@+id/acount_email"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="null"/>
+            <TextView
+                android:id="@+id/acount_nation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="null"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/hm_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="3"></GridView>
+
+    <LinearLayout
+        android:background="@color/list_line_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <AutoCompleteTextView
+            android:id="@+id/hm_actv"
+            android:layout_margin="5dp"
+            android:padding="3dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="36dp"
+            android:background="@drawable/input_back"/>
+        <ImageView
+            android:id="@+id/hm_search"
+            android:layout_margin="5dp"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:src="@mipmap/search_home"/>
+
+    </LinearLayout>
+</LinearLayout>

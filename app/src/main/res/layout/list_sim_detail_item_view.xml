@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_horizontal"
+              android:orientation="horizontal"
+              android:background="@color/color_all_back"
+              android:padding="@dimen/padding_10">
+    <TextView
+        android:id="@+id/sim_detail_item_date_textview"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:layout_gravity="left"
+        android:textSize="@dimen/text_size_10"/>
+    <TextView
+        android:id="@+id/sim_detail_item_used_net"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:layout_gravity="right"
+        android:textSize="@dimen/text_size_10"/>
+</LinearLayout>
+

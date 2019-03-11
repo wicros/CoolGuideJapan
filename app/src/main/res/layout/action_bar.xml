@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/action_bar_height"
+    android:id="@+id/action_bar_rl"
+    android:background="@color/action_back_color">
+
+    <!-- 左側ボタン -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/actionbar_back_button"
+            android:layout_width="24dp"
+            android:layout_height="44dp"
+            android:scaleType="center"
+            android:layout_gravity="center_vertical|left"
+            android:layout_marginLeft="10dp"
+            android:clickable="true"
+            android:src="@mipmap/arrow_left"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+    <!-- タイトル・ロゴ (どちらか一方のみ表示) -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/actionbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:lines="2"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"/>
+    </LinearLayout>
+
+    <!-- 右側ボタン (最大3つ/数値は右から割り振る) -->
+
+
+        <TextView
+            android:padding="4dp"
+            android:layout_alignParentRight="true"
+            android:id="@+id/action_tv"
+            android:gravity="center"
+            android:textColor="@color/color_white"
+            android:text="button"
+
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:visibility="invisible"/>
+
+
+
+</RelativeLayout>

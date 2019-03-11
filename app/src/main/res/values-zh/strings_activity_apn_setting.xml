@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apn_setting_name">設定APN</string>
+    <string name="apn_button">打開設定畫面</string>
+    <string name="apn_setting_info">需要手動設定APN。\n
+        復制下列各個項目，請在「打開設定畫面」裏設定。\n
+        最初追加新的APN時請加｢＋｣。</string>
+
+    <string name="apn_copy_success_toast">已復制</string>
+    <string name="apn_Data_toast">如果以上設定完了後，作為默認對應，成為有效的移動數據通信。</string>
+    <string name="net_check">移動數據</string>
+    <string name="copy_success">已復制！</string>
+    <string name="data_connection_success">成功接入網絡。</string>
+    <string name="check_data_prompt">關閉Wi - Fi，打開移動數據，設定完畢。</string>
+    <string name="toast_title">註意</string>
+    <string name="toast_ok">確定</string>
+    <string name="toast_cancel">取消</string>
+
+
+</resources>

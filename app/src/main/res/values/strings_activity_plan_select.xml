@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="sim_detail_charge_success">チャージが成功しました。</string>
+    <string name="sim_detail_charge_fail">チャージが失敗しました。</string>
+</resources>

@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 23
+    buildToolsVersion "24.0.0"
+    defaultConfig {
+        applicationId "jp.co.jpmobile.coolguidejapan"
+        minSdkVersion 17
+        targetSdkVersion 23
+        versionCode 6
+        versionName "1.1.0"
+
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile project(':LoopView')
+    compile project(':xListView')
+    compile files('libs/alipaySdk-20160516.jar')
+    compile files('libs/analytics_sdk_v1_2_11.jar')
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.google.code.gson:gson:2.7'
+    compile 'com.paypal.sdk:paypal-android-sdk:2.14.3'
+    compile 'com.yolanda.nohttp:nohttp:1.0.4'
+    compile 'it.sephiroth.android.library.picasso:picasso:2.5.2.4b'
+    compile 'com.google.android.gms:play-services-gcm:9.4.0'
+    compile files('libs/BaiduLBS_Android.jar')
+}

@@ -1,0 +1,9 @@
+﻿<resources>
+    <string name="top_menu_title">酷 導 日 本</string>
+    <string name="top_menu_login">登錄</string>
+    <string name="top_menu_baidu">用Baidu登錄</string>
+    <string name="top_menu_wechat">用Wechat登錄</string>
+    <string name="top_menu_facebook">用FaceBook登錄</string>
+    <string name="top_menu_add_user">增加新用護</string>
+
+</resources>

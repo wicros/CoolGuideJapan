@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="sim_plan_select_title">チャージプラン選択</string>
+    <string name="charge_way_title">チャージ</string>
+    <string name="charge_way_select">リチャージ方法を選択してください</string>
+</resources>

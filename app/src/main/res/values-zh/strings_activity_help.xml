@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_sim_info">sim card 關聯FAQ</string>
+    <string name="help_sales">sim card 出售FAQ</string>
+    <string name="help_after_sales">sim card 售後服務FAQ</string>
+    <string name="help_Contact">咨詢</string>
+    <string name="help_bar_title">幫助</string>
+
+    <string name="chinese">漢語</string>
+    <string name="english">英語</string>
+</resources>

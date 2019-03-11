@@ -1,0 +1,9 @@
+﻿<resources>
+    <string name="top_menu_title">Cool Guide Japan</string>
+    <string name="top_menu_login">login</string>
+    <string name="top_menu_baidu">login by Baidu</string>
+    <string name="top_menu_wechat">login by Wechat</string>
+    <string name="top_menu_facebook">login by FaceBook</string>
+    <string name="top_menu_add_user">add new user</string>
+
+</resources>

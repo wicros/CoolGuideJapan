@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apn_name_demo">名字</string>
+    <string name="apn_style">APN</string>
+    <string name="apn_user_name">用護名</string>
+    <string name="apn_user_password">密碼</string>
+    <string name="apn_copy">復制</string>
+    <string name="apn_user_Identity">認證類型</string>
+
+    <!--The latter can be modified according to the needs of-->
+    <string name="apn_name_demo_1">請隨意輸入。</string>
+    <string name="apn_style_1">jpmob.jp</string>
+    <string name="apn_user_name_1">1@jpmob</string>
+    <string name="apn_user_password_1">888</string>
+    <string name="apn_user_Identity_1">選擇[CHAP]。</string>
+</resources>

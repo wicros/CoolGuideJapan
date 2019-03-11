@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/splash_tv"
+        android:scaleType="fitXY"/>
+
+
+    <RelativeLayout
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp">
+        <jp.co.jpmobile.coolguidejapan.view.PieProgress
+            xmlns:PieProgress="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/pie_progress"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            PieProgress:foregroundColor="#aa222222"
+            PieProgress:backgroundColor="#22000000" />
+        <TextView
+            android:id="@+id/progress_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="3"
+            android:textColor="@color/color_white"/>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

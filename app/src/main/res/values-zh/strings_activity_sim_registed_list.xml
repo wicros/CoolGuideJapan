@@ -1,0 +1,7 @@
+﻿<resources>
+    <!-- Strings related to login -->
+    <string name="sim_registed_list_bar_title">SIM卡</string>
+    <string name="sim_registed_default_text">沒有已登錄卡的信息。</string>
+    <string name="sim_registed_not_login_error">沒有登錄，請再次登錄。</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_gender">ジェンダー</string>
+    <string name="regist_prompt_gender">あなたの性別</string>
+    <string name="user_birthday">誕生日</string>
+
+    <string name="regist_prompt_birthday">あなたの生年月日</string>
+    <string name="user_country">国籍</string>
+    <string name="regist_prompt_country">あなたの国籍</string>
+    <string name="user_tourism">旅の目的地</string>
+    <string name="regist_prompt_tourism">旅の目的地</string>
+
+    <string name="userinfo_bar_title">個人情報</string>
+    <string name="user_action_regist">保存</string>
+
+    <string name="check_box_userinfo">同意以下条款</string>
+</resources>

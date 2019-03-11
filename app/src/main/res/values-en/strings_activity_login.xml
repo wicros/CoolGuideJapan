@@ -1,0 +1,32 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="login_action_bar_title">login</string>
+    <string name="title_user">username</string>
+    <string name="title_password">password</string>
+    <string name="title_email">regist mail box</string>
+    <string name="action_email_sing_in">mail-box</string>
+    <string name="title_password_confirm">Input password again.</string>
+    <string name="action_sign_in">login</string>
+    <string name="action_sign_ok">final</string>
+    <string name="action_regist">regist</string>
+    <string name="action_sign_in_short">login</string>
+    <string name="action_new_user">regist the new account</string>
+    <string name="forget_password">in case of forgetting the password</string>
+    <string name="seperate_text">other login</string>
+    <string name="error_invalid_email">Email address is not valid.</string>
+    <string name="error_invalid_password">Password is incorrect.</string>
+    <string name="error_empty_password">password</string>
+    <string name="title_passnumber">check the number</string>
+    <string name="error_invalid_date">Date is incorrect.</string>
+    <string name="error_incorrect_password">Password is incorrect.</string>
+    <string name="error_field_required">Please input content of login.</string>
+    <string name="error_field_required_regist">Please input content of regist.</string>
+    <string name="error_tel_wrong">Telphone number is incorrect.</string>
+    <string name="error_password_wrong">Password is incorrect.</string>
+    <string name="error_no_such_user">The user does not exist.</string>
+    <string name="error_server">An error occurred on the server.</string>
+    <string name="error_input">invalid input</string>
+    <string name="error_password_length">Password\'s length is not full for six digits.</string>
+    <string name="error_password_equal">The password confirmation does not match.</string>
+</resources>

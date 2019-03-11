@@ -1,0 +1,6 @@
+<resources>
+    <!-- Strings related to login -->
+    <string name="sim_charge_list_bar_title">チャージ可能カード</string>
+    <string name="sim_charge_default_text">チャージできるカード情報がありません。</string>
+    <string name="sim_charge_text">初プ リチャージオプション7日1GB&#160;&#160;&#160;&#160;500</string>
+</resources>

@@ -1,0 +1,6 @@
+﻿<resources>
+    <!-- Strings related to login -->
+    <string name="sim_charge_list_bar_title">能充值的卡。</string>
+    <string name="sim_charge_default_text">沒有能充值的卡的信息。</string>
+    <string name="sim_charge_text">充值先擇7日1GB&#160;&#160;&#160;&#160;500</string>
+</resources>

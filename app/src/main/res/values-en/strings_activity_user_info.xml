@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_gender">gender</string>
+    <string name="regist_prompt_gender">your gender</string>
+    <string name="user_birthday">date of birth</string>
+
+    <string name="regist_prompt_birthday">date of birth</string>
+    <string name="user_country">nationality</string>
+    <string name="regist_prompt_country">your nationality</string>
+    <string name="user_tourism">travel destination</string>
+    <string name="regist_prompt_tourism">travel destination</string>
+
+    <string name="userinfo_bar_title">personal information</string>
+    <string name="user_action_regist">save</string>
+
+    <string name="check_box_userinfo">agree the following article </string>
+</resources>

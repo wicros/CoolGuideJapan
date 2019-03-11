@@ -1,0 +1,7 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="coupon_list_bar_title">coupon</string>
+    <string name="coupon_default_text">You can\'t get the GPS information or coupon information.</string>
+
+</resources>

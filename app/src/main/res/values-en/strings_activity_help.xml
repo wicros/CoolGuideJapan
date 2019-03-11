@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_sim_info">sim card relating FAQ</string>
+    <string name="help_sales">sim card selling FAQ</string>
+    <string name="help_after_sales">sim card after-service FAQ</string>
+    <string name="help_Contact">query</string>
+    <string name="help_bar_title">help</string>
+
+    <string name="chinese">Chinese</string>
+    <string name="english">English</string>
+</resources>

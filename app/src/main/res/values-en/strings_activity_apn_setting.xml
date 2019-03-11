@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apn_setting_name">APN settings</string>
+    <string name="apn_button">open the setting screen</string>
+    <string name="apn_setting_info">You will need to configure the APN manually.\n
+        Copy each following items to set 「open the setting screen」.\n
+        First in order to add new APN ,please add ｢＋｣.</string>
+
+    <string name="apn_copy_success_toast">copied</string>
+    <string name="apn_Data_toast">If you completed the settings, as default to be useful ,it becomes effective data communication of mobile.</string>
+    <string name="net_check">mobile data </string>
+    <string name="copy_success">Copied！</string>
+    <string name="data_connection_success">The network connection was successful.</string>
+    <string name="check_data_prompt">Turn off the Wi-Fi and open the mobile data, the setting is completed.</string>
+    <string name="toast_title">note</string>
+    <string name="toast_ok">final</string>
+    <string name="toast_cancel">cancel</string>
+
+</resources>

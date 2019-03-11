@@ -1,0 +1,40 @@
+﻿<resources>
+    <string name="app_name">Cool Guide</string>
+    <!-- 主页 -->
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <!-- TODO:本当のfacebookとweiboのapp keyに交換してください-->
+    <string name="facebook_app_id">997595583660763</string>
+    <string name="weibo_app_id">4125072459</string>
+    <string name="error_title">error</string>
+    <string name="network_error_msg">"It cann't connect to the network."</string>
+    <string name="error_button_positive">"OK"</string>
+    <string name="weibo_redirect_url">https://api.weibo.com/oauth2/default.html</string>
+    <string name="weibo_app_scope"></string>
+    <string name="num_regx">^\-?[0-9]*\.?[0-9]+$</string>
+    <string name="password_regx">[A-Z0-9a-z]{6,}</string>
+    <string name="verification_code_error">Verification number is wrong. </string>
+    <string name="charge_failed_error">Recharge failed. Please try again.。</string>
+    <string name="charge_sucess">Recharge Success.</string>
+    <string name="go_to_Email">Please receive a confirmation email at your email address.</string>
+    <string name="product_code">Product Code</string>
+    <string name="charge_date">Recharge Date</string>
+    <string name="ex_date">Ends at</string>
+    <string name="nickname">nickname</string>
+    <string name="add_simcard">add</string>
+    <string name="share">share</string>
+    <string name="edit">edit</string>
+    <string name="all">All</string>
+    <string name="fav">Favourite</string>
+    <string name="delete_card">Are you sure you want to delete this number:</string>
+    <string name="title_video">video</string>
+    <string name="title_foot">Travel Footprint</string>
+    <string name="no_limit">no limit</string>
+    <string name="simset_text1">Network setting is required before using the SIM card in Japan. Please connect to a Wi-Fi network and follow the tutorial below.</string>
+    <string name="simset_text2">After using, to restore:\n1. Settings → General → Profile\n2. Delete Profile</string>
+    <string name="simset_bt">Tutorial</string>
+    <string name="simset_title">SIM Setting</string>
+
+    <string name="shop_title">Shop Search</string>
+
+</resources>

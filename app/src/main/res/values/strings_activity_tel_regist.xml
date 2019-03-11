@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="regist_tel_bar_title">SIMカード登録</string>
+    <string name="regist_tel_title_tel">SIMカード番号入力</string>
+    <string name="regist_tel_title_password">パスワード入力</string>
+    <string name="regist_tel_title_startdate">ご利用開始日（渡航日）</string>
+    <string name="regist_tel_title_enddate">ご利用終了日（帰国日）</string>
+    <string name="regist_tel_prompt_password">英数字</string>
+    <string name="regist_tel_prompt_tel">電話番号</string>
+    <string name="regist_tel_prompt_date">YYYY/MM/DD</string>
+    <string name="regist_tel_action_regist">登録</string>
+    <string name="regist_tel_action_next">次へ</string>
+    <string name="regist_tel_action_skip">スキップ</string>
+    <string name="regist_tel_error_invalid_password">4桁数字を入力してください。</string>
+    <string name="card_registed">カードがすでに存在しています。</string>
+    <string name="card_regist_complete">カード登録しました</string>
+    "
+</resources>

@@ -1,0 +1,25 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="app_setting_bar_title">application settings</string>
+    <string name="app_setting_account_info">account information</string>
+    <string name="app_setting_change_password">change password</string>
+    <string name="change_langrage">change language</string>
+    <string name="app_setting_help">help</string>
+    <string name="app_setting_agreement">application of use and privacy</string>
+    <string name="apn_setting_title">network settings</string>
+    <string name="drop_out_app">logout</string>
+    <string name="drop_out_prompt">Do you want to logout really?</string>
+    <string name="updated_password">changed</string>
+    <string name="drop_out_ok">Yes</string>
+    <string name="drop_out_cancel">No</string>
+    <string name="saved_userinfo">saved</string>
+    <!--appset button-->
+    <string name="acount_info">account information</string>
+    <!--acount textview-->
+    <string name="acount_user_name">user:</string>
+    <string name="acount_country">nationality:</string>
+    <string name="acount_gender">gender:</string>
+    <string name="acount_birthday">date of birth:</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, XListViewActivity!</string>
+    <string name="app_name">XListView</string>
+    <string name="xlistview_header_hint_normal">refresh</string>
+    <string name="xlistview_header_hint_ready">release to refresh</string>
+    <string name="xlistview_header_hint_loading">Loading...</string>
+    <string name="xlistview_header_last_time">last refresh time：</string>
+    <string name="xlistview_footer_hint_normal">load more</string>
+    <string name="xlistview_footer_hint_ready">release to load more</string>
+
+</resources>

@@ -1,0 +1,27 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="app_setting_bar_title">應用設定</string>
+    <string name="app_setting_account_info">帳户信息</string>
+    <string name="app_setting_change_password">更改密碼</string>
+    <string name="change_langrage">更改語種</string>
+    <string name="app_setting_help">幫助</string>
+    <string name="app_setting_agreement">隱私和利用條約</string>
+    <string name="apn_setting_title">網酪設定</string>
+    <string name="drop_out_app">退出</string>
+    <string name="drop_out_prompt">確定要退出？</string>
+    <string name="updated_password">已更改</string>
+    <string name="drop_out_ok">是</string>
+    <string name="drop_out_cancel">否</string>
+    <string name="saved_userinfo">已保存</string>
+    <!--appset button-->
+    <string name="acount_info">帳户信息</string>
+    <!--acount textview-->
+    <string name="acount_user_name">用户:</string>
+    <string name="acount_country">國籍:</string>
+    <string name="acount_gender">男女:</string>
+    <string name="acount_birthday">出生年月日:</string>
+
+    <string name="go_to_Email">請到指定的電郵信箱收取啟用帳號郵件</string>
+
+</resources>

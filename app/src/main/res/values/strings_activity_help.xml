@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_sim_info">sim card 関連FAQ</string>
+    <string name="help_sales">sim card 販売FAQ</string>
+    <string name="help_after_sales">sim card アフターサービスFAQ</string>
+    <string name="help_Contact">問い合わせ</string>
+    <string name="help_bar_title">ヘルプ</string>
+
+    <string name="chinese">中文</string>
+    <string name="english">English</string>
+</resources>

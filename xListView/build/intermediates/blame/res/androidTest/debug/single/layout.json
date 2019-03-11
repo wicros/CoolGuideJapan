@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\wicors\\AndroidStudioProjects\\CoolGuideJapan\\xListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\wicors\\AndroidStudioProjects\\CoolGuideJapan\\xListView\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wicors\\AndroidStudioProjects\\CoolGuideJapan\\xListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\wicors\\AndroidStudioProjects\\CoolGuideJapan\\xListView\\build\\intermediates\\bundles\\debug\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wicors\\AndroidStudioProjects\\CoolGuideJapan\\xListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "C:\\Users\\wicors\\AndroidStudioProjects\\CoolGuideJapan\\xListView\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\wicors\\AndroidStudioProjects\\CoolGuideJapan\\xListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "C:\\Users\\wicors\\AndroidStudioProjects\\CoolGuideJapan\\xListView\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    }
+]

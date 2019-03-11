@@ -1,0 +1,19 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="regist_tel_bar_title">regist SIM card</string>
+    <string name="regist_tel_title_tel">input SIM card number</string>
+    <string name="regist_tel_title_password">input password</string>
+    <string name="regist_tel_title_startdate">start your day (start)</string>
+    <string name="regist_tel_title_enddate">finish your day (return)</string>
+    <string name="regist_tel_prompt_password">English number</string>
+    <string name="regist_tel_prompt_tel">telphone number</string>
+    <string name="regist_tel_prompt_date">YYYY/MM/DD</string>
+    <string name="regist_tel_action_regist">regist</string>
+    <string name="regist_tel_action_next">next</string>
+    <string name="regist_tel_action_skip">skip</string>
+    <string name="regist_tel_error_invalid_password">Please input four or six digits number.</string>
+    <string name="card_registed">The card is already existed.</string>
+    <string name="card_regist_complete"> registed</string>
+    "
+</resources>

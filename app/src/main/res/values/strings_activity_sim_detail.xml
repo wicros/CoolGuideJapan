@@ -1,0 +1,12 @@
+<resources>
+    <!-- Strings related to login -->
+    <string name="sim_detail_plan_title">プラン</string>
+    <string name="sim_detail_left_title">残容量</string>
+    <string name="sim_detail_off_title">利用した容量</string>
+    <string name="sim_detail_startdate_title">利用開始日</string>
+    <string name="sim_detail_enddate_title">利用終了日</string>
+    <string name="sim_detail_list_by_date">日別利用量</string>
+    <string name="sim_detail_charge">リチャージ</string>
+    <string name="sim_detail_charge_history">リチャージ履歴</string>
+    <string name="sim_detail_title">SIMカード</string>
+</resources>

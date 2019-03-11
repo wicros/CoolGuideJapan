@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="app_setting_bar_title">アプリ設定</string>
+    <string name="app_setting_account_info">アカウント情報</string>
+    <string name="app_setting_change_password">パスワード変更</string>
+    <string name="change_langrage">言語変更</string>
+    <string name="app_setting_help">ヘルプ</string>
+    <string name="app_setting_agreement">プライバシーと利用規約</string>
+    <string name="apn_setting_title">ネットワーク設定</string>
+    <string name="drop_out_app">ログアウト</string>
+    <string name="drop_out_prompt">本当にログアウトしてよろしいですか</string>
+    <string name="updated_password">変更しました</string>
+    <string name="drop_out_ok">はい</string>
+    <string name="drop_out_cancel">いいえ</string>
+    <string name="saved_userinfo">保存しました</string>
+    <string name="go_to_Email">指定されたメールアドレスに確認メールを受け取りください</string>
+
+    <!--appset button-->
+    <string name="acount_info">アカウント情報</string>
+    <!--acount textview-->
+    <string name="acount_user_name">ユーザー:</string>
+    <string name="acount_country">国籍:</string>
+    <string name="acount_gender">男女:</string>
+    <string name="acount_birthday">誕生年月日:</string>
+
+</resources>

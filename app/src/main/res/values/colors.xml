@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="item_divider">#ffd7d7d7</color>
+    <color name="bg">#66cccccc</color>
+    <color name="item_download_bg">#cccccccc</color>
+    <color name="menu_bg_normal">#f0f1f3</color>
+    <color name="menu_bg_press">#cecece</color>
+    <color name="app_detail_safe_normal">#999999</color>
+    <color name="app_detail_safe_warning">#ff8800</color>
+
+    <color name="action_border_color">#ffaaaaaa</color>
+    <color name="action_back_color">#ffad181f</color>
+    <color name="action_back_color_off">#f43f49</color>
+    <color name="color_white">#ffffffff</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="half_transparent_color_white">#44ffffff</color>
+    <color name="color_black">#ff000000</color>
+    <color name="color_list_item">#fff0ffe6</color>
+    <color name="color_all_back">#fff0f0f0</color>
+    <color name="button_text_color">#ffd5c3bb</color>
+    <color name="text_color_gray">#ff858585</color>
+    <color name="clear_color">#00000000</color>
+    <color name="input_border_color">#ccd3d7d4</color>
+    <color name="add_border_color">#ffa7324a</color>l
+    <color name="seperate_line_color">#ff6f6f6f</color>
+    <color name="apn_line_color">#6B8E23</color>
+    <color name="ok_line_color">#FF8C00</color>
+    <color name="cancel_line_color">#EEEED1</color>
+    <color name="net_line_color">#4F94CD</color>
+    <color name="list_line_color">#eff1f3</color>
+
+</resources>

@@ -1,0 +1,32 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="login_action_bar_title">登錄</string>
+    <string name="title_user">用護名</string>
+    <string name="title_password">密碼</string>
+    <string name="title_email">登錄郵箱</string>
+    <string name="action_email_sing_in">郵箱</string>
+    <string name="title_password_confirm">再輸入密碼。</string>
+    <string name="action_sign_in">登錄</string>
+    <string name="action_sign_ok">確定</string>
+    <string name="action_regist">註冊</string>
+    <string name="action_sign_in_short">登錄</string>
+    <string name="action_new_user">註冊新賬號</string>
+    <string name="forget_password">忘記密碼</string>
+    <string name="seperate_text">其他登錄</string>
+    <string name="error_invalid_email">無效郵箱地址。</string>
+    <string name="error_invalid_password">密碼不正確。</string>
+    <string name="error_empty_password">密碼</string>
+    <string name="title_passnumber">驗證碼</string>
+    <string name="error_invalid_date">日期不正確。</string>
+    <string name="error_field_required_regist">請輸入註冊信息</string>
+    <string name="error_incorrect_password">密碼不正確。</string>
+    <string name="error_field_required">請輸入登錄信息。</string>
+    <string name="error_tel_wrong">電話號碼不正確。</string>
+    <string name="error_password_wrong">密碼不正。</string>
+    <string name="error_no_such_user">此用護不存在。</string>
+    <string name="error_server">服務器發生錯誤。</string>
+    <string name="error_input">輸入不正確</string>
+    <string name="error_password_length">密碼長度少於6位。</string>
+    <string name="error_password_equal">密碼確認不一致</string>
+</resources>

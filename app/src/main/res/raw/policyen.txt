@@ -1,0 +1,64 @@
+﻿Cool Guide Japan Privacy Policy
+
+1. IN GENERAL
+1.1. The concept of the Cool Guide Japan platform is based in part on the publication of details regarding individual users by making such details accessible to other users via the Cool Guide Japan platform.
+
+1.1.1. The collection, administration and use of personal details by Cool Guide Japan complies with applicable data protection laws by ensuring that each user is able to decide herself, which personal details shall be made accessible to other users.
+1.1.2. Special notice regarding the ?Live Tracking“-feature: The Cool Guide Japan platform includes a "Live Tracking"-feature, which, if activated by a user in her own discretion, enables third parties to see the route and data of such user's sports activity on the Cool Guide Japan platform. Unless disabled by the user in the profile settings, such user will be queried prior to each session whether she wants to activate the feature for such session. Activation of the "Live Tracking"-feature is entirely voluntary. By activating the feature, the user accepts the responsibility for such activation at her own risk. If the user does not want to give third parties access to her training route and data, then the "Live Tracking"-feature should not be activated. The user's privacy settings can be configured accordingly, via Profiles-Setting-Privacy.
+
+
+
+2. CATEGORIES OF PERSONALLY IDENTIFIABLE INFORMATION COLLECTED BY COOL GUIDE JAPAN
+2.1. Cool Guide Japan collects information from users upon registration on its website and in connection with the use of any of Cool Guide Japan's applications. The personally identifiable information collected by Cool Guide Japan falls in the following categories:
+?First and last name;
+?Home or other physical address, including street name and name of city or town;
+?Email address;
+?Miscellaneous workout data, such as length and type of workouts, pulse rates, etc.
+2.2. Personally identifiable information shall be saved and used in particular in order to offer new applications to the user, to improve such applications and conform them to the users' needs.
+
+
+3. PRIVACY SETTINGS
+3.1. Every user can change the privacy settings applicable to her account. In this way, the user can
+
+3.1.1. decide, to a certain extent, which personally identifiable information is collected with respect to such user; and
+3.1.2. define who can see personally identifiable information that is collected (see below, Item 3.2).
+
+3.2. With respect to the following details, each user can decide, via Profiles-Setting-Privacy, who can see such information: 1. Profile data 2. Activities 3. Status feed 4. Maps of sport-sessions 5. Tracks 6. Photos 7. Sports statistics. The different settings that are available are as follows:
+
+3.2.1. All: Everyone will be able to see this, regardless of whether they have an account or not.
+3.2.2. All logged in users: All logged in Cool Guide Japan users will be able to see this.
+3.2.3. Friends of Friends: Only your friends, as well as their friends will be able to see this.
+3.2.4. Friends: Only your friends will be able to see this.
+3.2.5. None: Nobody will be able to see this.
+
+
+
+4. USE AND SHARING OF PERSONALLY IDENTIFIABLE AND NON-PERSONALLY IDENTIFIABLE INFORMATION WITH THIRD PARTIES
+4.1. By registering, the user explicitly agrees that Cool Guide Japan shall have the right to use all automatically collected personally identifiable information, in accordance with the privacy settings of such user, for purposes of the Cool Guide Japan applications. Cool Guide Japan does not pass on personally identifiable information (see Section 2, above) to third parties, except as required by law or with the explicit consent of the user. Cool Guide Japan implements all reasonable measures to prevent the unauthorized access by third parties to saved details.
+4.2. The user explicitly consents to the storage and use of non-personally identifiable information for purposes of in-app advertising or on www.Cool Guide Japan by Cool Guide Japan or its partners.
+4.3. Health data will never be shared with advertisers or similar agencies.
+
+
+5. PLUGINS AND WIDGETS FOR SOCIAL MEDIA
+5.1. The Cool Guide Japan Platform includes social media plugins, such as (i) Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA; (ii) Google +, 1600 Amphitheatre Parkway, Mountain View, CA 94043; or (iii) Twitter, 1355 Market Street, Suite 900, San Francisco, CA 94103, USA.
+5.2. Such plugins can recognize a user’s IP address and the page visited on the Cool Guide Japan platform, and, possibly, store cookies, so that the services offered by Cool Guide Japan work properly. Social media plugins and widgets are hosted either by third party providers or directly by us. Your interactions with these plugins are subject to this privacy policy or the privacy policy of any third party that offers such feature. Cool Guide Japan is not responsible for the use of, or guidelines regarding the use of, personal data by third party providers.
+5.3. Users may recognize the respective plugins, e.g., by the respective logo or other respective characteristic typical for the respective social media-platform on our pages. https://info.jpmob.jp/  5.4. If a user interacts with the plugins, e. g. by clicking on the Facebook "Like-Button" or entering a comment, while being logged in to such user's Social Media-account on Facebook, Google+ or Twitter, a user links the contents of the Cool Guide Japan pages to her respective social media-profile. Thereby, Facebook/Google+/Twitter can associate a user's visit of the Cool Guide Japan page with such user's social media-account. Cool Guide Japan as the provider of the Cool Guide Japan platform does not have any knowledge of the content of the transmitted data or its usage by Facebook, Google+ or Twitter. Users can find more information on that issue in the privacy policy of the respective social media-platform:
+
+5.5. If users do not want to have the respective social media-platform associate their visits on our site with their social media-account, users must log out from their social media-account.
+
+
+6. COOKIES
+6.1. Several areas of the Cool Guide Japan website use 'cookies' ─ small text files that are placed on the user's computer and stored by the browser. They are used by Cool Guide Japan to provide a more user-friendly, effective and secure service. Cookies also enable Cool Guide Japan to identify a user's browser and offer services to such user. Cookies do not contain any personally identifiable information.
+6.2. You can prevent the installation of cookies by entering the corresponding settings in your browser software. However, please note that in this case you may not be able to use the complete range of functions of the Cool Guide Japan platform to its full extent.
+
+
+7. CHANGES TO PRIVACY POLICY
+8.1. If Cool Guide Japan decides to change its privacy policy, it will post those changes on this page. This policy was last modified on 2016/07/08.
+
+
+8. YOUR CONSENT
+9.1. By using our site, you consent to our privacy policy. Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at  https://info.jpmob.jp/.
+
+
+9. NEWSLETTER
+10.1 Cool Guide Japan will send newsletters to registered users. By accepting these T&C, the user allows Cool Guide Japan to send newsletters. The user can opt out of receiving a newsletter each time such newsletter is received. Upon opting out, the user will not receive any further newsletters from Cool Guide Japan.

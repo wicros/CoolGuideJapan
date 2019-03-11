@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="regist_bar_title">新規ユーザー登録</string>
+    <string name="password_bar_title">新規パスワード</string>
+    <string name="forget_password_title">パスワードを忘れた</string>
+    <string name="confirm_password_title">パスワードを確定</string>
+    <string name="regist_title_user">メールアドレス</string>
+    <string name="regist_title_password">パスワード</string>
+    <string name="regist_title_password_confirm">パスワード再入力</string>
+    <string name="regist_prompt_email">メールアドレス</string>
+    <string name="regist_prompt_password">英数字</string>
+    <string name="regist_prompt_numberic">数字</string>
+    <string name="regist_action_regist">登録</string>
+    <string name="regist_user_existed_error">ユーザが既に存在しています</string>
+    <string name="regist_dialog">指定されたメールアドレスに確認メールを受け取りください</string>
+</resources>

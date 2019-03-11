@@ -1,0 +1,232 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_all_back"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <include layout="@layout/action_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_5"
+        android:layout_marginRight="@dimen/margin_5"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_5"
+            android:layout_weight="1.5"
+            android:gravity="center"
+            android:text="@string/nickname"
+            android:textSize="18dp" />
+
+        <EditText
+            android:id="@+id/nickname_tv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_marginTop="@dimen/margin_5"
+            android:layout_weight="3"
+            android:background="@drawable/input_back"
+            android:hint="@string/nickname"
+            android:maxLines="1"
+            android:padding="@dimen/padding_10"
+            android:singleLine="true"
+            android:textSize="@dimen/text_size_10" />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_5"
+        android:layout_marginRight="@dimen/margin_5"
+        android:orientation="horizontal">
+
+        <!--国籍-->
+        <TextView
+            android:id="@+id/user_country"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_5"
+            android:layout_weight="1.5"
+            android:gravity="center"
+            android:text="@string/user_country"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/user_country_input"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_marginTop="@dimen/margin_5"
+            android:layout_weight="3"
+            android:background="@drawable/input_back"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:hint="@string/regist_prompt_country"
+            android:maxLines="1"
+            android:padding="@dimen/padding_10"
+            android:singleLine="true"
+            android:textSize="@dimen/text_size_10" />
+    </LinearLayout>
+
+    <!--gender-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_5"
+        android:layout_marginRight="@dimen/margin_5"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/user_gender"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_5"
+            android:layout_weight="1.5"
+            android:gravity="center"
+            android:text="@string/user_gender"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/user_gender_input"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_marginTop="@dimen/margin_5"
+            android:layout_weight="3"
+            android:background="@drawable/input_back"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:hint="@string/regist_prompt_gender"
+            android:imeActionId="@+id/login"
+            android:imeActionLabel="@string/regist_action_regist"
+            android:imeOptions="actionUnspecified"
+            android:maxLines="1"
+            android:padding="@dimen/padding_10"
+            android:singleLine="true"
+            android:textSize="@dimen/text_size_10" />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_5"
+        android:layout_marginRight="@dimen/margin_5"
+        android:orientation="horizontal">
+
+        <!--生日-->
+        <TextView
+            android:id="@+id/user_birthday"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_5"
+            android:layout_weight="1.5"
+            android:gravity="center"
+            android:text="@string/user_birthday"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/user_birthday_input"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_marginTop="@dimen/margin_5"
+            android:layout_weight="3"
+            android:background="@drawable/input_back"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:hint="@string/regist_prompt_birthday"
+            android:maxLines="1"
+            android:padding="@dimen/padding_10"
+            android:singleLine="true"
+            android:textSize="@dimen/text_size_10" />
+    </LinearLayout>
+
+
+
+    <!--日本旅游目的地-->
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/margin_5"
+    android:layout_marginRight="@dimen/margin_5"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/user_tourism"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/padding_5"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:text="@string/user_tourism"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/user_tourism_input"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_5"
+        android:layout_marginTop="@dimen/margin_5"
+        android:layout_weight="3"
+        android:background="@drawable/input_back"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:hint="@string/regist_prompt_tourism"
+        android:imeActionId="@+id/login"
+        android:imeActionLabel="@string/regist_action_regist"
+        android:imeOptions="actionUnspecified"
+        android:maxLines="1"
+        android:padding="@dimen/padding_10"
+        android:singleLine="true"
+        android:textSize="@dimen/text_size_10" />
+</LinearLayout>
+
+    <CheckBox
+        android:id="@+id/policy_cb"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/check_box_userinfo"
+        android:textColor="@color/text_color_gray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/policy_tv"/>
+
+    </ScrollView>
+
+
+
+    <Button
+        android:id="@+id/user_button"
+        style="?android:textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="30dp"
+        android:background="@drawable/button_back_disable"
+        android:text="@string/user_action_regist"
+        android:textColor="@color/color_white"
+        android:textSize="18dp" />
+
+
+</LinearLayout>

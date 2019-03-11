@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apn_name_demo">name</string>
+    <string name="apn_style">APN</string>
+    <string name="apn_user_name">username</string>
+    <string name="apn_user_password">password</string>
+    <string name="apn_copy">copy</string>
+    <string name="apn_user_Identity">authentication type</string>
+
+    <!--The latter can be modified according to the needs of-->
+    <string name="apn_name_demo_1">Please input free.</string>
+    <string name="apn_style_1">jpmob.jp</string>
+    <string name="apn_user_name_1">1@jpmob</string>
+    <string name="apn_user_password_1">888</string>
+    <string name="apn_user_Identity_1">choose[CHAP].</string>
+</resources>

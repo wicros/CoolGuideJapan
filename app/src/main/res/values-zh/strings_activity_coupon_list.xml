@@ -1,0 +1,7 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="coupon_list_bar_title">優惠</string>
+    <string name="coupon_default_text">不能取得GPS信息以及沒有優惠信息。</string>
+
+</resources>

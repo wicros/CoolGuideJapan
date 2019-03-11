@@ -1,0 +1,7 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="sim_plan_select_title">選擇付費套餐</string>
+    <string name="charge_way_title">充值</string>
+    <string name="charge_way_select">請選擇充值方案</string>
+</resources>

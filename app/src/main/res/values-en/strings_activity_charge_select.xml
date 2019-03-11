@@ -1,0 +1,7 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="sim_plan_select_title">select the charge plan</string>
+    <string name="charge_way_title">charge</string>
+    <string name="charge_way_select">select the charge plan</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="320dp"
+    android:layout_height="480dp"
+    tools:context="jp.co.jpmobile.coolguidejapan.activity.ADVActivity">
+    <ImageView
+            android:id="@+id/iv_adv"
+            android:layout_width="320dp"
+            android:layout_height="480dp"
+            android:scaleType="fitXY"/>
+
+    <ImageView
+        android:layout_alignParentRight="true"
+        android:id="@+id/iv_cancel"
+        android:layout_width="32dp"
+        android:layout_margin="5dp"
+        android:layout_height="32dp"
+        android:src="@mipmap/cancel"/>
+
+</RelativeLayout>

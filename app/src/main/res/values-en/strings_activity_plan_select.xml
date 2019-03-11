@@ -1,0 +1,6 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="sim_detail_charge_success">Charge was successful. </string>
+    <string name="sim_detail_charge_fail">Charge was failed.</string>
+</resources>

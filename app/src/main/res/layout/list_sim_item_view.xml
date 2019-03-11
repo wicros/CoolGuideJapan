@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center_horizontal"
+              android:orientation="horizontal"
+              android:background="@color/input_border_color"
+              android:padding="@dimen/padding_10">
+
+    <TextView
+        android:id="@+id/telnum_textview"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="20dp"
+        android:gravity="left"
+        android:textSize="@dimen/text_size_10"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/arrow_right"
+            android:layout_width="wrap_content"
+            android:layout_height="22dp"
+            android:layout_marginRight="20dp"
+            android:src="@mipmap/arrow_right"/>
+        <ImageView
+            android:id="@+id/delete"
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_marginRight="5dp"
+            android:src="@mipmap/delete"/>
+    </RelativeLayout>
+
+</LinearLayout>
+

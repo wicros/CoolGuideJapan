@@ -1,0 +1,19 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="regist_tel_bar_title">SIM卡登錄</string>
+    <string name="regist_tel_title_tel">輸入SIM卡號</string>
+    <string name="regist_tel_title_password">輸入密碼</string>
+    <string name="regist_tel_title_startdate">使用開始日（出國日）</string>
+    <string name="regist_tel_title_enddate">使用結束日（回國日）</string>
+    <string name="regist_tel_prompt_password">英數字</string>
+    <string name="regist_tel_prompt_tel">電話號碼</string>
+    <string name="regist_tel_prompt_date">YYYY/MM/DD</string>
+    <string name="regist_tel_action_regist">註冊</string>
+    <string name="regist_tel_action_next">下壹步</string>
+    <string name="regist_tel_action_skip">跳過</string>
+    <string name="regist_tel_error_invalid_password">請輸入4位數字。</string>
+    <string name="card_registed">卡已經存在。</string>
+    <string name="card_regist_complete">卡已登錄</string>
+    
+</resources>

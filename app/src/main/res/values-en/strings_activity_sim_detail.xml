@@ -1,0 +1,12 @@
+﻿<resources>
+    <!-- Strings related to login -->
+    <string name="sim_detail_plan_title">plan</string>
+    <string name="sim_detail_left_title">remain capacity</string>
+    <string name="sim_detail_off_title">based on capacity</string>
+    <string name="sim_detail_startdate_title">start your day</string>
+    <string name="sim_detail_enddate_title">finish your day</string>
+    <string name="sim_detail_list_by_date">the amount of daily use</string>
+    <string name="sim_detail_charge">recharge</string>
+    <string name="sim_detail_charge_history">recharge history</string>
+    <string name="sim_detail_title">SIM card</string>
+</resources>

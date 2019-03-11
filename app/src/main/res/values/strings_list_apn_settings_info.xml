@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apn_name_demo">名前</string>
+    <string name="apn_style">APN</string>
+    <string name="apn_user_name">ユーザー名</string>
+    <string name="apn_user_password">パスワード</string>
+    <string name="apn_copy">コピー</string>
+    <string name="apn_user_Identity">認証タイプ</string>
+
+    <!--The latter can be modified according to the needs of-->
+    <string name="apn_name_demo_1">ご自由に入力してください</string>
+    <string name="apn_style_1">jpmob.jp</string>
+    <string name="apn_user_name_1">1@jpmob</string>
+    <string name="apn_user_password_1">888</string>
+    <string name="apn_user_Identity_1">[CHAP]を選択</string>
+</resources>

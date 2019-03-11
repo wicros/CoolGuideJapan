@@ -1,0 +1,17 @@
+﻿<resources>
+
+    <!-- Strings related to login -->
+    <string name="regist_bar_title">regist new user</string>
+    <string name="password_bar_title">new password</string>
+    <string name="forget_password_title">forget the password</string>
+    <string name="confirm_password_title">confirm the password</string>
+    <string name="regist_title_user">mail address</string>
+    <string name="regist_title_password">password</string>
+    <string name="regist_title_password_confirm">input password again</string>
+    <string name="regist_prompt_email">mail address</string>
+    <string name="regist_prompt_password">English number</string>
+    <string name="regist_prompt_numberic">number</string>
+    <string name="regist_action_regist">regist</string>
+    <string name="regist_user_existed_error">User already exists.</string>
+    <string name="regist_dialog">Please receive a confirmation email at your email address</string>
+</resources>

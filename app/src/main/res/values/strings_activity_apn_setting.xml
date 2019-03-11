@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apn_setting_name">APN設定</string>
+    <string name="apn_button">設定画面を開く</string>
+    <string name="apn_setting_info">APNを手動で設定いただく必要があります。\n
+        下記の各項目をコピーして「設定画面を開く」より設定してください。\n
+        最初はAPNを一つ新規｢＋｣追加してください。</string>
+
+    <string name="apn_copy_success_toast">コピーされました</string>
+    <string name="apn_Data_toast">上記の設定を完了しましたら、デフォルトとして適応し、モバイルのデータ通信を有効にしてください。</string>
+    <string name="net_check">モバイルデータ</string>
+    <string name="copy_success">コピーされました！</string>
+    <string name="data_connection_success">成功にネットワークに繋ぎました</string>
+    <string name="check_data_prompt">Wi-Fiをオフし、モバイルデータを開くことで、設定完了とする。</string>
+    <string name="toast_title">注意</string>
+    <string name="toast_ok">確定</string>
+    <string name="toast_cancel">キャンセル</string>
+
+
+</resources>

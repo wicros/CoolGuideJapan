@@ -1,0 +1,7 @@
+﻿<resources>
+    <!-- Strings related to login -->
+    <string name="sim_registed_list_bar_title">SIM card</string>
+    <string name="sim_registed_default_text">No information about registed card.</string>
+    <string name="sim_registed_not_login_error">Not log in, please log in again.</string>
+
+</resources>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="custom_dialog_title_alert">APN settings</string>
+    <string name="custom_dialog_ok">final</string>
+    <string name="custom_dialog_cancel">cancel</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="coupon_list_bar_title">クーポン</string>
+    <string name="coupon_default_text">GPS情報が取得できませんか、またはクーポン情報がありません。</string>
+
+</resources>
